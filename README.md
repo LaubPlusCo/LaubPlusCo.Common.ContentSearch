@@ -1,2 +1,2 @@
 # ContentSearch PopulateSolrSchema
-Processors for extending the Sitecore's contentSearch.PopulateSolrSchema pipeline to ensure all installed languages in Sitecore are added to the solr managed schema.
+Common extensions to Sitecore contentSearch. Hereunder PopulateSolrSchema pipeline processors to ensure that all installed languages in Sitecore are added to the solr managed schema.
